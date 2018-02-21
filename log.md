@@ -1,3 +1,12 @@
+### Day 1: Feb. 20, Teusday
+
+**Today's Progress**: Just starting. I completed the first 15 or so challenges at FreeCodeCamp. 
+
+**Thoughts** I am pretty much new to coding. However, I did do some HTML back in the late 90's as a hobby, so I at least know basically what is going on with the front end development challenges so far. CSS is completely new to me. I learned on my own how to use multiple CSS classes in a single element, which felt good.
+
+**Link(s) to work** I will put something here when I have built something or, in the case of FreeCodeCamp, have completed a challenge I feel particularly proud of.
+
+<!--
 # 100 Days Of Code - Log
 
 ### Day 0: February 30, 2016 (Example 1)
@@ -28,3 +37,4 @@
 **Link(s) to work**
 1. [Find the Longest Word in a String](https://www.freecodecamp.com/challenges/find-the-longest-word-in-a-string)
 2. [Title Case a Sentence](https://www.freecodecamp.com/challenges/title-case-a-sentence)
+-->
