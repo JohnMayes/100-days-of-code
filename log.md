@@ -6,6 +6,12 @@
 
 **Link(s) to work** I will put something here when I have built something or, in the case of FreeCodeCamp, have completed a challenge I feel particularly proud of.
 
+### Day 2: Feb. 21, Wednesday
+
+**Today's Progress**: More FreeCodeCamp. Slowly building "Free Cat Photo App."
+
+**Thoughts** I am liking what one can do with CSS so far.
+
 <!--
 # 100 Days Of Code - Log
 
