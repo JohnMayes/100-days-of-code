@@ -12,6 +12,12 @@
 
 **Thoughts** I am liking what one can do with CSS so far.
 
+### Day 3: Feb. 22, Wednesday
+
+**Today's Progress**: More FreeCodeCamp. Learned how to create forms and use ids. Learned a little bit about how HTML works regarding the formatting of a webpage.
+
+**Thoughts** FreeCodeCamp's tutorials are good, and I am learning just by doing, but I think I would like to understand more the "grammar and syntax" of the code, i.e. the "why" of what I am doing, if that makes sense. So I will look into that.
+
 <!--
 # 100 Days Of Code - Log
 
