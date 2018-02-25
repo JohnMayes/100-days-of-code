@@ -28,7 +28,7 @@
 
 **Today's Progress**: Watched an online tutorial, Reviewed HTML and started building a repository of HTML elements
 
-**Thoughts** I decided to take a break from FreeCodeCamp and spend Saturday reviewing what I have learned from another source. Perhaps I will make doing so once a week a habit.
+**Thoughts** I decided to take a break from FreeCodeCamp and spend Saturday reviewing from another source what I have learned. Perhaps I will make doing so a weekly habit.
 
 <!--
 # 100 Days Of Code - Log
