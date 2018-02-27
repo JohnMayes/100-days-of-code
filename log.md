@@ -30,6 +30,13 @@
 
 **Thoughts** I decided to take a break from FreeCodeCamp and spend Saturday reviewing from another source what I have learned. Perhaps I will make doing so a weekly habit.
 
+### Day 5: Feb. 26, Monday
+
+**Today's Progress**: More FreeCodeCamp. Began learning Bootstrap.
+
+**Thoughts** Bootstratp seems pretty useful. At this rate I may be able to start my basic front end development projects by friday.
+
+
 <!--
 # 100 Days Of Code - Log
 
