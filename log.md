@@ -1,4 +1,4 @@
-### Day 1: Feb. 20, Teusday
+### Day 1: Feb. 20, Tuesday
 
 **Today's Progress**: Just starting. I completed the first 15 or so challenges at FreeCodeCamp. 
 
