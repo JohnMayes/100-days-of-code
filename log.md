@@ -24,18 +24,23 @@
 
 **Thoughts** Finished the very first section of FreeCodeCamp. Looking forward to seeing what Bootstrap is all about.
 
-### Day 4: Feb. 24, Saturday
+### Day 5: Feb. 24, Saturday
 
 **Today's Progress**: Watched an online tutorial, Reviewed HTML and started building a repository of HTML elements
 
 **Thoughts** I decided to take a break from FreeCodeCamp and spend Saturday reviewing from another source what I have learned. Perhaps I will make doing so a weekly habit.
 
-### Day 5: Feb. 26, Monday
+### Day 6: Feb. 26, Monday
 
 **Today's Progress**: More FreeCodeCamp. Began learning Bootstrap.
 
 **Thoughts** Bootstratp seems pretty useful. At this rate I may be able to start my basic front end development projects by friday.
 
+### Day 7: Feb. 27, Tuesday
+
+**Today's Progress**: Finished the Bootstrap tutorial, although I am sure there is still plenty to learn. Began some basic jQuery.
+
+**Thoughts** What I have seen so far of jQuery makes me want to jump right in and start learning JavaScript.
 
 <!--
 # 100 Days Of Code - Log
