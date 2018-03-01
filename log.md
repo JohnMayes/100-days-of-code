@@ -42,6 +42,12 @@
 
 **Thoughts** What I have seen so far of jQuery makes me want to jump right in and start learning JavaScript.
 
+### Day 8: Feb. 28, Friday
+
+**Today's Progress**: Finished the jQuery tutorials and set up my codepen.io account.
+
+**Thoughts** Still looking forward to learning JavaScript. I should put some thought into my first front end development projects; I want them to look nice. 
+
 <!--
 # 100 Days Of Code - Log
 
