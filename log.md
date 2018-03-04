@@ -60,6 +60,12 @@
 
 **Thoughts** It's late! 
 
+### Day 11: Mar. 3, Saturday
+
+**Today's Progress**: Built HTML framework. Content is in place. Decided on the layout and style I am going to use. Did some preliminary CSS.
+
+**Thoughts** Codepen does not let you create multiple HTML files within one webpage, so I am going to try to use jQuery to add a simple multi-page layout to my page.
+
 <!--
 # 100 Days Of Code - Log
 
