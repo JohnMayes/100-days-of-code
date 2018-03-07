@@ -66,6 +66,20 @@
 
 **Thoughts** Codepen does not let you create multiple HTML files within one webpage, so I am going to try to use jQuery to add a simple multi-page layout to my page.
 
+### Day 12: Mar. 5, Monday
+
+**Today's Progress**: Finalized CSS. Wrestling with jQuery.
+
+**Thoughts** I figured out how to hide content within a page using jQuery, but I am having trouble with subsequently displaying only certain content afterwards. I can think of one possible solution, but that would involve re-writing my HTML and I would rather not do that if I don’t have too. 
+
+### Day 13: Mar. 6, Tuesday
+
+**Today's Progress**: I finished my first front end development challenge!
+
+**Thoughts** I had to search online for examples of what I was trying to do with jQuery. I found one, and it helped me to learn a little more about how jQuery works.
+
+**Link(s) to work** [Build a Tribute Page](https://codepen.io/JohnMayes/pen/paBYOB)
+
 <!--
 # 100 Days Of Code - Log
 
