@@ -80,6 +80,12 @@
 
 **Link(s) to work** [Build a Tribute Page](https://codepen.io/JohnMayes/pen/paBYOB)
 
+### Day 14: Mar. 7, Wednesday
+
+**Today's Progress**: Began work on the second front end challenge. Created a responsive navbar with different styling for desktop and mobile.
+
+**Thoughts** Bootstrap seems like a pretty useful toolset. We will see if it can do everything I ask it to.
+
 <!--
 # 100 Days Of Code - Log
 
