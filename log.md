@@ -86,6 +86,12 @@
 
 **Thoughts** Bootstrap seems like a pretty useful toolset. We will see if it can do everything I ask it to.
 
+### Day 15: Mar. 8, Thursday
+
+**Today's Progress**: Banged my head up against a wall trying to get some particular elements in my navbar to working how I wished, until I finally figured out it was because of some specific behavior of boostrap nav-items.
+
+**Thoughts** Bootstrap is handy but definitely has its limitations.
+
 <!--
 # 100 Days Of Code - Log
 
