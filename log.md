@@ -90,7 +90,14 @@
 
 **Today's Progress**: Banged my head up against a wall trying to get some particular elements in my navbar to working how I wished, until I finally figured out it was because of some specific behavior of boostrap nav-items.
 
-**Thoughts** Bootstrap is handy but definitely has its limitations.
+**Thoughts** Bootstrap is handy but definitely has its limitations. It makes structuring a website more simple and straightforward, but if there is something specific I want to do, I still have to use CSS.
+
+### Day 16: Mar. 9, Friday
+
+**Today's Progress**: Got the navbar working exactly as I wished using jQuery. Learned some in the process.
+
+**Thoughts** Solving problems feels good.
+
 
 <!--
 # 100 Days Of Code - Log
