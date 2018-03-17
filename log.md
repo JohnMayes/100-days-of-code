@@ -98,6 +98,18 @@
 
 **Thoughts** Solving problems feels good.
 
+### Day 17: Mar. 15, Thursday
+
+**Today's Progress**: Added content and played with the layout of my portfolio page.
+
+**Thoughts** Slowly learning how to make bootstrap do what I want it to.
+
+### Day 18: Mar. 16, Friday
+
+**Today's Progress**: Testing a new nevbar system, again with jQurey. Using flexbox this time. Took awhile to get it working how I wished.
+
+**Thoughts** Flexbox seems like it might be slightly more economical than Bootstrap, code-wise. Not half as many divs and containers.
+
 
 <!--
 # 100 Days Of Code - Log
