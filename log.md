@@ -110,6 +110,19 @@
 
 **Thoughts** Flexbox seems like it might be slightly more economical than Bootstrap, code-wise. Not half as many divs and containers.
 
+### Day 19: Mar. 29, Thursday
+
+**Today's Progress**: Implemented new navbar.
+
+**Thoughts** Making something look good on both desktop and mobile is kind of tricky.
+
+### Day 20: Mar. 30, Friday
+
+**Today's Progress**: Added a "contact me" form.
+
+**Thoughts** Just plugging away. Hope to finish the portfolio page soon.
+
+
 
 <!--
 # 100 Days Of Code - Log
