@@ -122,7 +122,13 @@
 
 **Thoughts** Just plugging away. Hope to finish the portfolio page soon.
 
+### Day 21: Mar. 31, Saturday
 
+**Today's Progress**: I finished my second front end development challenge. I may continue tweaking it as I move forward with further projects, but I like it for now.
+
+**Thoughts** I am really looking forward to diving into JavaScript.
+
+**Link(s) to work** [Build a Personal Portfolio Webpage]( https://codepen.io/JohnMayes/full/ddxdRe/)
 
 <!--
 # 100 Days Of Code - Log
