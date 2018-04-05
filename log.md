@@ -146,7 +146,14 @@
 
 **Today's Progress**: More FreeCodeCamp challenges, getting a little more complicated. 
 
-**Thoughts** Reading about how JavaScript works has been useful in conjunction with learning how to use it. 
+**Thoughts** Reading about how JavaScript works has been useful in conjunction with learning how to use it.
+
+### Day 25: Apr. 5, Thursday
+
+**Today's Progress**: More JavaScript.  I am learning how to build strings using a variety of methods. 
+
+**Thoughts** Hey, I'm already a quarter of the way through the 100 day challenge!
+
  
 <!--
 # 100 Days Of Code - Log
