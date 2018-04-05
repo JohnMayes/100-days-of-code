@@ -130,6 +130,24 @@
 
 **Link(s) to work** [Build a Personal Portfolio Webpage]( https://codepen.io/JohnMayes/full/ddxdRe/)
 
+### Day 22: Apr. 2, Monday
+
+**Today's Progress**: Began the next set of FreeCodeCamp challenges, this time focused on JavaScript.
+
+**Thoughts** Let's see what I can do with JS. 
+
+### Day 23: Apr. 3, Teusday
+
+**Today's Progress**: More FreeCodeCamp. Began doing some external study besides just FCC challenges.
+
+**Thoughts** I had to brush up on my math a little bit.
+
+### Day 24: Apr. 4, Wednesday
+
+**Today's Progress**: More FreeCodeCamp challenges, getting a little more complicated. 
+
+**Thoughts** Reading about how JavaScript works has been useful in conjunction with learning how to use it. 
+ 
 <!--
 # 100 Days Of Code - Log
 
