@@ -152,7 +152,13 @@
 
 **Today's Progress**: More JavaScript.  I am learning how to build strings using a variety of methods. 
 
-**Thoughts** Hey, I'm already a quarter of the way through the 100 day challenge!
+**Thoughts** Hey, I'm already a quarter of the way through the 100 day challenge! 
+
+### Day 26: Apr. 6, Friday
+
+**Today's Progress**: More FreeCodeCamp.
+
+**Thoughts** Starting to work with Functions.
 
  
 <!--
