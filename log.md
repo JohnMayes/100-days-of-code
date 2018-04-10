@@ -160,6 +160,18 @@
 
 **Thoughts** Starting to work with Functions.
 
+### Day 27: Apr. 7, Saturday
+
+**Today's Progress**: Worked through a chapter of [Eloquent JavaScript]( http://eloquentjavascript.net/).
+
+**Thoughts** If I can, I would like to stick to a schedule of working through Eloquent JavaScript in conjunction with FreeCodeCamp.
+
+### Day 28: Apr. 9, Monday
+
+**Today's Progress**: More FreeCodeCamp exercises, plus an Eloquent JavaScript exercise. 
+
+**Thoughts** The Eloquent JavaScript exercises are difficult, but rewarding.
+
  
 <!--
 # 100 Days Of Code - Log
