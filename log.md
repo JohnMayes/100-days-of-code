@@ -172,6 +172,19 @@
 
 **Thoughts** The Eloquent JavaScript exercises are difficult, but rewarding.
 
+### Day 29: Apr. 10, Teusday
+
+**Today's Progress**: More FreeCodeCamp.
+
+### Day 30: Apr. 11, Wednesday
+
+**Today's Progress**: Ditto
+
+### Day 31: Apr. 12, Thursday
+
+**Today's Progress**: Ditto
+
+**Thoughts** Starting to do some interesting things with functions.
  
 <!--
 # 100 Days Of Code - Log
