@@ -185,6 +185,20 @@
 **Today's Progress**: Ditto
 
 **Thoughts** Starting to do some interesting things with functions.
+
+### Day 32: Apr. 13, Friday
+
+**Today's Progress**: Worked through half a chapter in Eloquent JavaScript.
+
+**Thoughts** The “Data Structures: Objects and Arrays” chapter is pretty dense with info!
+
+### Day 33: Apr. 16, Monday
+
+**Today's Progress**: More Eloquent JavaScript. 
+
+**Thoughts** Objects and Arrays look like some of the most useful tools I have learned of so far.
+
+
  
 <!--
 # 100 Days Of Code - Log
