@@ -198,6 +198,12 @@
 
 **Thoughts** Objects and Arrays look like some of the most useful tools I have learned of so far.
 
+### Day 34: Apr. 18, Wednesday
+
+**Today's Progress**: I learned how to [sum a range](https://eloquentjavascript.net/04_data.html#i_8ZspxiCEC/). 
+
+**Thoughts** This one took some work.
+
 
  
 <!--
