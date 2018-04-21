@@ -204,6 +204,12 @@
 
 **Thoughts** This one took some work.
 
+### Day 35: Apr. 19, Thursday
+
+**Today's Progress**: I learned how to [reverse an array](https://eloquentjavascript.net/04_data.html#i_6xTmjj4Rf5). 
+
+**Thoughts** Returning a reversed array is simple enough, but reversing one in place was very tricky. Had to look up the code for that one.
+
 
  
 <!--
